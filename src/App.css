@@ -1,3 +1,9 @@
+li {
+    cursor: pointer;
+}
+button {
+    margin-left: 30px;
+}
 .App {
   text-align: center;
 }
